@@ -1,0 +1,79 @@
+ceph-mgr dashboard not built - disabling.
+** going verbose **
+RTNETLINK answers: Invalid argument
+rm -f core* 
+hostname eyalbr-IdeaPad-Flex-5-14IAU7
+ip 10.100.102.10
+port 40191
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph-authtool --create-keyring --gen-key --name=mon. /home/eyalbr/Desktop/ceph_gsoc/ceph/build/keyring --cap mon 'allow *' 
+creating /home/eyalbr/Desktop/ceph_gsoc/ceph/build/keyring
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph-authtool --gen-key --name=client.admin --cap mon 'allow *' --cap osd 'allow *' --cap mds 'allow *' --cap mgr 'allow *' /home/eyalbr/Desktop/ceph_gsoc/ceph/build/keyring 
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/monmaptool --create --clobber --addv a [v2:10.100.102.10:40191,v1:10.100.102.10:40192] --print /tmp/ceph_monmap.60246 
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/monmaptool: monmap file /tmp/ceph_monmap.60246
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/monmaptool: generated fsid d1315888-2073-4032-8c86-45785e7509b2
+setting min_mon_release = tentacle
+epoch 0
+fsid d1315888-2073-4032-8c86-45785e7509b2
+last_changed 2026-03-29T17:30:45.157832+0300
+created 2026-03-29T17:30:45.157832+0300
+min_mon_release 20 (tentacle)
+election_strategy: 1
+0: [v2:10.100.102.10:40191/0,v1:10.100.102.10:40192/0] mon.a
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/monmaptool: writing epoch 0 to /tmp/ceph_monmap.60246 (1 monitors)
+rm -rf -- /home/eyalbr/Desktop/ceph_gsoc/ceph/build/dev/mon.a 
+mkdir -p /home/eyalbr/Desktop/ceph_gsoc/ceph/build/dev/mon.a 
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph-mon --mkfs -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf -i a --monmap=/tmp/ceph_monmap.60246 --keyring=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/keyring 
+Starting tracking the heap
+Dumping heap profile to /home/eyalbr/Desktop/ceph_gsoc/ceph/build/out//mon.a.profile.0001.heap (Exiting, 11 kB in use)
+rm -- /tmp/ceph_monmap.60246 
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph-mon -i a -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf 
+Starting tracking the heap
+Populating config ...
+
+[mgr]
+	mgr/telemetry/enable = false
+	mgr/telemetry/nag = false
+Setting debug configs ...
+add osd0 d882e138-4d34-429a-942b-78e54772a29d
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf -k /home/eyalbr/Desktop/ceph_gsoc/ceph/build/keyring osd new d882e138-4d34-429a-942b-78e54772a29d -i /home/eyalbr/Desktop/ceph_gsoc/ceph/build/dev/osd0/new.json 
+0
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph-osd -i 0 -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf --mkfs --key AQCWN8lpmZyWKxAA2EodoPU5SkvdTPR+6rc/yA== --osd-uuid d882e138-4d34-429a-942b-78e54772a29d 
+Starting tracking the heap
+2026-03-29T17:30:47.036+0300 71eefc1d8ac0 -1 bdev(0x57acfd573400 /home/eyalbr/Desktop/ceph_gsoc/ceph/build/dev/osd0/block) open stat got: (1) Operation not permitted
+2026-03-29T17:30:47.039+0300 71eefc1d8ac0 -1 bluestore(/home/eyalbr/Desktop/ceph_gsoc/ceph/build/dev/osd0) _read_fsid unparsable uuid 
+Dumping heap profile to /home/eyalbr/Desktop/ceph_gsoc/ceph/build/out//osd.0.profile.0001.heap (129 MB currently in use)
+Dumping heap profile to /home/eyalbr/Desktop/ceph_gsoc/ceph/build/out//osd.0.profile.0002.heap (Exiting, 389 kB in use)
+Dumping heap profile to /home/eyalbr/Desktop/ceph_gsoc/ceph/build/out//osd.0.profile.0001.heap (Exiting, 0 bytes in use)
+start osd.0
+osd 0 /home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph-osd -i 0 -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph-osd -i 0 -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf 
+Starting tracking the heap
+2026-03-29T17:30:56.800+0300 7aaa4b559ac0 -1 Falling back to public interface
+2026-03-29T17:30:59.486+0300 7aaa4b559ac0 -1 osd.0 0 log_to_monitors true
+OSDs started
+setting up user testid
+setting up s3-test users
+setting up user tester
+
+S3 User Info:
+  access key:  0555b35654ad1656d804
+  secret key:  h7GhxuBLTrlhVUyxSPUKUV8r/2EI4ngqJxD7iBdBYLhwluN30JaT3Q==
+
+Swift User Info:
+  account   : test
+  user      : tester
+  password  : testing
+
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/ceph -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf -k /home/eyalbr/Desktop/ceph_gsoc/ceph/build/keyring auth get-or-create client.rgw.8000 mon 'allow rw' osd 'allow rwx' mgr 'allow rw' 
+start rgw on http://localhost:8000
+/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin/radosgw -c /home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf --log-file=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/out/radosgw.8000.log --admin-socket=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/out/radosgw.8000.asok --pid-file=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/out/radosgw.8000.pid --rgw_luarocks_location=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/out/radosgw.8000.luarocks --debug-rgw=20 --debug-rgw-lifecycle=20 --debug-ms=1 -n client.rgw.8000 '--rgw_frontends=beast port=8000' 
+
+vstart cluster complete. Use stop.sh to stop. See out/* (e.g. 'tail -f out/????') for debug output.
+
+
+export PYTHONPATH=/home/eyalbr/Desktop/ceph_gsoc/ceph/src/pybind:/home/eyalbr/Desktop/ceph_gsoc/ceph/build/lib/cython_modules/lib.3:/home/eyalbr/Desktop/ceph_gsoc/ceph/src/python-common:$PYTHONPATH
+export LD_LIBRARY_PATH=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/lib:$LD_LIBRARY_PATH
+export PATH=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/bin:$PATH
+export CEPH_CONF=/home/eyalbr/Desktop/ceph_gsoc/ceph/build/ceph.conf
+alias cephfs-shell=/home/eyalbr/Desktop/ceph_gsoc/ceph/src/tools/cephfs/shell/cephfs-shell
+CEPH_DEV=1

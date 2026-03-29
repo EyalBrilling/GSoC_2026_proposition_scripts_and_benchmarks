@@ -1,0 +1,6148 @@
+[?25l[?2004h╭─────────────────────────────────╮
+│ WARP S3 Benchmark Tool by MinIO │
+╰─────────────────────────────────╯
+            
+Preparing...
+               
+ λ 
+
+[8A
+
+
+                                          
+Preparing: Creating Bucket "read-bench"...
+                                             
+
+
+[8A
+
+
+                                    
+Preparing: Uploading 2500 objects...
+                                       
+
+
+[8A
+
+
+
+
+
+ λ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+                                                                       
+Reqs: 1, Errs:0, Objs:1, Bytes: 3.8MiB                                 
+ -       PUT Average: 0 Obj/s, 963.5KiB/s; Current 0 Obj/s, 963.5KiB/s.
+                                                                       
+[11A
+
+
+
+
+
+
+                                                                   
+Reqs: 5, Errs:0, Objs:5, Bytes: 19.1MiB                            
+ -       PUT Average: 1 Obj/s, 4.4MiB/s; Current 1 Obj/s, 4.4MiB/s.
+                                                                   
+[11A
+
+
+
+
+
+ λ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                     
+Reqs: 21, Errs:0, Objs:21, Bytes: 80.1MiB                            
+ -       PUT Average: 4 Obj/s, 14.5MiB/s; Current 3 Obj/s, 12.8MiB/s.
+                                                                     
+[11A
+
+
+
+
+
+
+                                                                    
+Reqs: 27, Errs:0, Objs:27, Bytes: 103.0MiB                          
+ -       PUT Average: 4 Obj/s, 13.4MiB/s; Current 1 Obj/s, 2.5MiB/s.
+                                                                    
+[11A
+
+
+
+
+
+
+                                                                      
+Reqs: 31, Errs:0, Objs:31, Bytes: 118.3MiB                            
+ -       PUT Average: 3 Obj/s, 10.3MiB/s; Current 0 Obj/s, 794.7KiB/s.
+                                                                      
+[11A
+
+
+
+
+
+ λ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                    
+Reqs: 41, Errs:0, Objs:41, Bytes: 156.4MiB                          
+ -       PUT Average: 3 Obj/s, 11.5MiB/s; Current 1 Obj/s, 3.7MiB/s.
+                                                                    
+[11A
+
+
+
+
+
+ λ ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+                                                                                   
+Reqs: 71, Errs:0, Objs:71, Bytes: 270.8MiB                                         
+ -       PUT Average: 5 Obj/s, 19.0MiB/s; Current 3 Obj/s, 12.6MiB/s, 6956.9 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+                                                                                  
+Reqs: 82, Errs:0, Objs:82, Bytes: 312.8MiB                                        
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 2 Obj/s, 7.0MiB/s, 6956.9 ms/req
+                                                                                  
+[11A
+
+
+
+
+
+ λ ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 91, Errs:0, Objs:91, Bytes: 347.1MiB                                        
+ -       PUT Average: 5 Obj/s, 20.9MiB/s; Current 1 Obj/s, 3.4MiB/s, 6956.9 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 94, Errs:0, Objs:94, Bytes: 358.6MiB                                          
+ -       PUT Average: 5 Obj/s, 19.0MiB/s; Current 0 Obj/s, 841.1KiB/s, 6956.9 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 105, Errs:0, Objs:105, Bytes: 400.5MiB                                         
+ -       PUT Average: 5 Obj/s, 18.2MiB/s; Current 0 Obj/s, 1010.2KiB/s, 6956.9 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 130, Errs:0, Objs:130, Bytes: 495.9MiB                                       
+ -       PUT Average: 6 Obj/s, 21.7MiB/s; Current 3 Obj/s, 11.7MiB/s, 6956.9 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 139, Errs:0, Objs:139, Bytes: 530.2MiB                                        
+ -       PUT Average: 6 Obj/s, 22.5MiB/s; Current 3 Obj/s, 12.3MiB/s, 10516.9 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 147, Errs:0, Objs:147, Bytes: 560.8MiB                                       
+ -       PUT Average: 6 Obj/s, 22.9MiB/s; Current 2 Obj/s, 6.3MiB/s, 10516.9 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%
+
+Reqs: 155, Errs:0, Objs:155, Bytes: 591.3MiB                                       
+ -       PUT Average: 6 Obj/s, 23.2MiB/s; Current 2 Obj/s, 6.4MiB/s, 10516.9 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 157, Errs:0, Objs:157, Bytes: 598.9MiB                                         
+ -       PUT Average: 5 Obj/s, 20.9MiB/s; Current 0 Obj/s, 318.4KiB/s, 10516.9 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 162, Errs:0, Objs:162, Bytes: 618.0MiB                                       
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 1 Obj/s, 2.1MiB/s, 10516.9 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 169, Errs:0, Objs:169, Bytes: 644.7MiB                                         
+ -       PUT Average: 5 Obj/s, 19.7MiB/s; Current 0 Obj/s, 912.0KiB/s, 10516.9 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 185, Errs:0, Objs:185, Bytes: 705.7MiB                                       
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 1 Obj/s, 5.4MiB/s, 10084.7 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 195, Errs:0, Objs:195, Bytes: 743.9MiB                                       
+ -       PUT Average: 5 Obj/s, 20.9MiB/s; Current 2 Obj/s, 6.7MiB/s, 10084.7 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%
+
+Reqs: 214, Errs:0, Objs:214, Bytes: 816.3MiB                                       
+ -       PUT Average: 6 Obj/s, 22.3MiB/s; Current 2 Obj/s, 7.0MiB/s, 10084.7 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 220, Errs:0, Objs:220, Bytes: 839.2MiB                                         
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 0 Obj/s, 262.7KiB/s, 10084.7 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 222, Errs:0, Objs:222, Bytes: 846.9MiB                                         
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 919.3KiB/s, 10084.7 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 233, Errs:0, Objs:233, Bytes: 888.8MiB                                       
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 2.8MiB/s, 12082.5 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 234, Errs:0, Objs:234, Bytes: 892.6MiB                                         
+ -       PUT Average: 5 Obj/s, 19.5MiB/s; Current 0 Obj/s, 674.7KiB/s, 12082.5 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+                                                                                   
+Reqs: 252, Errs:0, Objs:252, Bytes: 961.3MiB                                       
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 6.1MiB/s, 12082.5 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  11%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 272, Errs:0, Objs:272, Bytes: 1037.6MiB                                      
+ -       PUT Average: 6 Obj/s, 21.3MiB/s; Current 2 Obj/s, 6.6MiB/s, 12082.5 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 281, Errs:0, Objs:281, Bytes: 1071.9MiB                                      
+ -       PUT Average: 6 Obj/s, 21.6MiB/s; Current 1 Obj/s, 4.8MiB/s, 12082.5 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 285, Errs:0, Objs:285, Bytes: 1087.2MiB                                        
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 0 Obj/s, 329.3KiB/s, 12082.5 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
+                                                                                   
+Reqs: 293, Errs:0, Objs:293, Bytes: 1117.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.8MiB/s; Current 1 Obj/s, 2.9MiB/s, 11976.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 298, Errs:0, Objs:298, Bytes: 1136.8MiB                                        
+ -       PUT Average: 5 Obj/s, 19.7MiB/s; Current 0 Obj/s, 318.3KiB/s, 11976.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13%
+                                                                                   
+Reqs: 316, Errs:0, Objs:316, Bytes: 1205.4MiB                                      
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 5.9MiB/s, 11976.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13%
+
+Reqs: 328, Errs:0, Objs:328, Bytes: 1251.2MiB                                      
+ -       PUT Average: 5 Obj/s, 20.9MiB/s; Current 2 Obj/s, 9.2MiB/s, 11976.4 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  14%
+
+Reqs: 340, Errs:0, Objs:340, Bytes: 1297.0MiB                                      
+ -       PUT Average: 6 Obj/s, 21.3MiB/s; Current 2 Obj/s, 8.0MiB/s, 11976.4 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 347, Errs:0, Objs:347, Bytes: 1323.7MiB                                      
+ -       PUT Average: 6 Obj/s, 21.4MiB/s; Current 2 Obj/s, 8.1MiB/s, 11976.4 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                      
+Reqs: 350, Errs:0, Objs:350, Bytes: 1335.1MiB                                         
+ -       PUT Average: 6 Obj/s, 21.0MiB/s; Current 1 Obj/s, 2009.4KiB/s, 12276.6 ms/req
+                                                                                      
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 352, Errs:0, Objs:352, Bytes: 1342.8MiB                                        
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 0 Obj/s, 302.3KiB/s, 12276.6 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%
+
+Reqs: 362, Errs:0, Objs:362, Bytes: 1380.9MiB                                        
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 325.6KiB/s, 12276.6 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  16%
+                                                                                   
+Reqs: 389, Errs:0, Objs:389, Bytes: 1483.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 2 Obj/s, 8.9MiB/s, 12276.6 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  16%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 401, Errs:0, Objs:401, Bytes: 1529.7MiB                                      
+ -       PUT Average: 6 Obj/s, 21.0MiB/s; Current 2 Obj/s, 6.0MiB/s, 12276.6 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 411, Errs:0, Objs:411, Bytes: 1567.8MiB                                      
+ -       PUT Average: 6 Obj/s, 21.3MiB/s; Current 2 Obj/s, 6.4MiB/s, 11825.8 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  17%
+                                                                                     
+Reqs: 415, Errs:0, Objs:415, Bytes: 1583.1MiB                                        
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 0 Obj/s, 291.9KiB/s, 11825.8 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                      
+Reqs: 420, Errs:0, Objs:420, Bytes: 1602.2MiB                                         
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 1928.5KiB/s, 11825.8 ms/req
+                                                                                      
+[11A
+
+
+
+
+
+ λ █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  18%
+                                                                                     
+Reqs: 426, Errs:0, Objs:426, Bytes: 1625.1MiB                                        
+ -       PUT Average: 5 Obj/s, 19.6MiB/s; Current 0 Obj/s, 320.5KiB/s, 11825.8 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 449, Errs:0, Objs:449, Bytes: 1712.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 2 Obj/s, 7.4MiB/s, 12063.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  19%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 466, Errs:0, Objs:466, Bytes: 1777.6MiB                                      
+ -       PUT Average: 5 Obj/s, 21.0MiB/s; Current 2 Obj/s, 7.9MiB/s, 12063.4 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 476, Errs:0, Objs:476, Bytes: 1815.8MiB                                      
+ -       PUT Average: 6 Obj/s, 21.2MiB/s; Current 2 Obj/s, 8.1MiB/s, 12063.4 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 479, Errs:0, Objs:479, Bytes: 1827.2MiB                                        
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 0 Obj/s, 323.3KiB/s, 12063.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 487, Errs:0, Objs:487, Bytes: 1857.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 1 Obj/s, 2.9MiB/s, 12063.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+                                                                                     
+Reqs: 490, Errs:0, Objs:490, Bytes: 1869.2MiB                                        
+ -       PUT Average: 5 Obj/s, 19.7MiB/s; Current 0 Obj/s, 320.3KiB/s, 12256.6 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 508, Errs:0, Objs:508, Bytes: 1937.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 6.0MiB/s, 12256.6 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 529, Errs:0, Objs:529, Bytes: 2018.0MiB                                      
+ -       PUT Average: 5 Obj/s, 20.8MiB/s; Current 3 Obj/s, 9.9MiB/s, 12256.6 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  22%
+
+Reqs: 540, Errs:0, Objs:540, Bytes: 2059.9MiB                                      
+ -       PUT Average: 6 Obj/s, 21.1MiB/s; Current 2 Obj/s, 9.0MiB/s, 12256.6 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 543, Errs:0, Objs:543, Bytes: 2071.4MiB                                        
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 0 Obj/s, 316.8KiB/s, 12256.6 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 553, Errs:0, Objs:553, Bytes: 2109.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 3.4MiB/s, 12219.3 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 554, Errs:0, Objs:554, Bytes: 2113.3MiB                                        
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 331.1KiB/s, 12219.3 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ █████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  23%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 570, Errs:0, Objs:570, Bytes: 2174.4MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 1 Obj/s, 5.4MiB/s, 12219.3 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ █████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  24%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 593, Errs:0, Objs:593, Bytes: 2262.1MiB                                      
+ -       PUT Average: 5 Obj/s, 20.8MiB/s; Current 3 Obj/s, 9.8MiB/s, 12219.3 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  24%
+
+Reqs: 603, Errs:0, Objs:603, Bytes: 2300.3MiB                                      
+ -       PUT Average: 5 Obj/s, 20.9MiB/s; Current 2 Obj/s, 9.4MiB/s, 12219.3 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 606, Errs:0, Objs:606, Bytes: 2311.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 1 Obj/s, 2.3MiB/s, 12219.3 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 608, Errs:0, Objs:608, Bytes: 2319.3MiB                                        
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 0 Obj/s, 681.0KiB/s, 12035.2 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 618, Errs:0, Objs:618, Bytes: 2357.5MiB                                        
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 319.1KiB/s, 12035.2 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 636, Errs:0, Objs:636, Bytes: 2426.1MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 6.0MiB/s, 12035.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  26%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 657, Errs:0, Objs:657, Bytes: 2506.3MiB                                       
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 3 Obj/s, 11.0MiB/s, 12035.2 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 665, Errs:0, Objs:665, Bytes: 2536.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.8MiB/s; Current 2 Obj/s, 9.0MiB/s, 12035.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  27%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  27%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 672, Errs:0, Objs:672, Bytes: 2563.5MiB                                        
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 0 Obj/s, 321.8KiB/s, 12047.8 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 681, Errs:0, Objs:681, Bytes: 2597.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 3.1MiB/s, 12047.8 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  28%
+                                                                                     
+Reqs: 682, Errs:0, Objs:682, Bytes: 2601.6MiB                                        
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 323.5KiB/s, 12047.8 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 699, Errs:0, Objs:699, Bytes: 2666.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 1 Obj/s, 5.7MiB/s, 12047.8 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ █████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  28%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  29%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 721, Errs:0, Objs:721, Bytes: 2750.4MiB                                       
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 3 Obj/s, 11.8MiB/s, 12047.8 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 729, Errs:0, Objs:729, Bytes: 2780.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 1 Obj/s, 4.5MiB/s, 12199.1 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 736, Errs:0, Objs:736, Bytes: 2807.6MiB                                        
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 320.6KiB/s, 12199.1 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  29%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 745, Errs:0, Objs:745, Bytes: 2841.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 3.1MiB/s, 12199.1 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 746, Errs:0, Objs:746, Bytes: 2845.8MiB                                        
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 323.7KiB/s, 12199.1 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  31%
+                                                                                   
+Reqs: 766, Errs:0, Objs:766, Bytes: 2922.1MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.6MiB/s, 12129.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  31%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 785, Errs:0, Objs:785, Bytes: 2994.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 7.2MiB/s, 12129.4 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  32%
+
+Reqs: 794, Errs:0, Objs:794, Bytes: 3028.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 1 Obj/s, 5.0MiB/s, 12129.4 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 800, Errs:0, Objs:800, Bytes: 3051.8MiB                                        
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 326.3KiB/s, 12129.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  32%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 810, Errs:0, Objs:810, Bytes: 3089.9MiB                                        
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 327.7KiB/s, 11956.6 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  33%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 829, Errs:0, Objs:829, Bytes: 3162.4MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.4MiB/s, 11956.6 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  34%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  34%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 849, Errs:0, Objs:849, Bytes: 3238.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 7.2MiB/s, 11956.6 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 856, Errs:0, Objs:856, Bytes: 3265.4MiB                                      
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 1 Obj/s, 4.2MiB/s, 11956.6 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 864, Errs:0, Objs:864, Bytes: 3295.9MiB                                        
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 306.7KiB/s, 11956.6 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ █████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  35%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 874, Errs:0, Objs:874, Bytes: 3334.0MiB                                        
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 322.1KiB/s, 12084.3 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  35%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  36%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 893, Errs:0, Objs:893, Bytes: 3406.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 6.3MiB/s, 12084.3 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  36%
+
+Reqs: 913, Errs:0, Objs:913, Bytes: 3482.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 7.3MiB/s, 12084.3 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  37%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 922, Errs:0, Objs:922, Bytes: 3517.2MiB                                      
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 2 Obj/s, 6.4MiB/s, 12084.3 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 927, Errs:0, Objs:927, Bytes: 3536.2MiB                                        
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 249.7KiB/s, 12191.1 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 936, Errs:0, Objs:936, Bytes: 3570.6MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 3.1MiB/s, 12191.1 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 938, Errs:0, Objs:938, Bytes: 3578.2MiB                                        
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 324.5KiB/s, 12191.1 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  38%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 957, Errs:0, Objs:957, Bytes: 3650.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 6.3MiB/s, 12191.1 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  39%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 977, Errs:0, Objs:977, Bytes: 3727.0MiB                                      
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 7.9MiB/s, 12191.1 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  39%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 988, Errs:0, Objs:988, Bytes: 3768.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 2 Obj/s, 8.0MiB/s, 12191.1 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  40%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 991, Errs:0, Objs:991, Bytes: 3780.4MiB                                        
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 322.3KiB/s, 12165.2 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1001, Errs:0, Objs:1001, Bytes: 3818.5MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 3.5MiB/s, 12165.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1002, Errs:0, Objs:1002, Bytes: 3822.3MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 324.5KiB/s, 12165.2 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  41%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1021, Errs:0, Objs:1021, Bytes: 3894.8MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 6.3MiB/s, 12165.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  42%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1041, Errs:0, Objs:1041, Bytes: 3971.1MiB                                    
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 8.6MiB/s, 12042.2 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1048, Errs:0, Objs:1048, Bytes: 3997.8MiB                                    
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 7.1MiB/s, 12042.2 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  42%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1055, Errs:0, Objs:1055, Bytes: 4024.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 319.4KiB/s, 12042.2 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1064, Errs:0, Objs:1064, Bytes: 4058.8MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 3.1MiB/s, 12042.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  43%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1066, Errs:0, Objs:1066, Bytes: 4066.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 323.2KiB/s, 12249.5 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  43%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1085, Errs:0, Objs:1085, Bytes: 4138.9MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 6.3MiB/s, 12249.5 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  44%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1105, Errs:0, Objs:1105, Bytes: 4215.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 9.2MiB/s, 12249.5 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1114, Errs:0, Objs:1114, Bytes: 4249.6MiB                                    
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 8.5MiB/s, 12249.5 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  45%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1118, Errs:0, Objs:1118, Bytes: 4264.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 264.4KiB/s, 12249.5 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 1119, Errs:0, Objs:1119, Bytes: 4268.6MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 587.2KiB/s, 12249.5 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1130, Errs:0, Objs:1130, Bytes: 4310.6MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 325.6KiB/s, 12083.7 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  46%
+                                                                                   
+Reqs: 1152, Errs:0, Objs:1152, Bytes: 4394.5MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 7.4MiB/s, 12083.7 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  46%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  47%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 1169, Errs:0, Objs:1169, Bytes: 4459.4MiB                                     
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 3 Obj/s, 11.8MiB/s, 12083.7 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1181, Errs:0, Objs:1181, Bytes: 4505.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 2 Obj/s, 8.4MiB/s, 12083.7 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  47%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  48%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1192, Errs:0, Objs:1192, Bytes: 4547.1MiB                                    
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 2 Obj/s, 9.2MiB/s, 12083.7 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1193, Errs:0, Objs:1193, Bytes: 4550.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 0 Obj/s, 353.3KiB/s, 12083.7 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 1194, Errs:0, Objs:1194, Bytes: 4554.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 380.0KiB/s, 11383.0 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1195, Errs:0, Objs:1195, Bytes: 4558.6MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 557.8KiB/s, 11383.0 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  49%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  49%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1224, Errs:0, Objs:1224, Bytes: 4669.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 3 Obj/s, 9.7MiB/s, 11383.0 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  50%
+                                                                                    
+Reqs: 1241, Errs:0, Objs:1241, Bytes: 4734.0MiB                                     
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 4 Obj/s, 14.4MiB/s, 11383.0 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  50%
+
+Reqs: 1252, Errs:0, Objs:1252, Bytes: 4776.0MiB                                     
+ -       PUT Average: 5 Obj/s, 20.7MiB/s; Current 3 Obj/s, 10.2MiB/s, 11383.0 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1257, Errs:0, Objs:1257, Bytes: 4795.1MiB                                    
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 1 Obj/s, 2.3MiB/s, 11383.0 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1258, Errs:0, Objs:1258, Bytes: 4798.9MiB                                      
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 0 Obj/s, 370.7KiB/s, 11663.9 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 1259, Errs:0, Objs:1259, Bytes: 4802.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 752.5KiB/s, 11663.9 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  51%
+
+Reqs: 1260, Errs:0, Objs:1260, Bytes: 4806.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 0 Obj/s, 635.4KiB/s, 11663.9 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  52%
+                                                                                    
+Reqs: 1292, Errs:0, Objs:1292, Bytes: 4928.6MiB                                     
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 3 Obj/s, 10.5MiB/s, 11663.9 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+
+Reqs: 1299, Errs:0, Objs:1299, Bytes: 4955.3MiB                                     
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 3 Obj/s, 12.2MiB/s, 11663.9 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  53%
+                                                                                   
+Reqs: 1312, Errs:0, Objs:1312, Bytes: 5004.9MiB                                    
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 1 Obj/s, 4.4MiB/s, 12101.8 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  53%
+
+Reqs: 1321, Errs:0, Objs:1321, Bytes: 5039.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.6MiB/s; Current 1 Obj/s, 4.6MiB/s, 12101.8 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1322, Errs:0, Objs:1322, Bytes: 5043.0MiB                                      
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 0 Obj/s, 343.3KiB/s, 12101.8 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 1323, Errs:0, Objs:1323, Bytes: 5046.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 522.0KiB/s, 12101.8 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1324, Errs:0, Objs:1324, Bytes: 5050.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 305.2KiB/s, 12101.8 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  54%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  54%
+                                                                                    
+Reqs: 1357, Errs:0, Objs:1357, Bytes: 5176.5MiB                                     
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 3 Obj/s, 10.1MiB/s, 12601.4 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+
+Reqs: 1364, Errs:0, Objs:1364, Bytes: 5203.2MiB                                     
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 3 Obj/s, 11.2MiB/s, 12601.4 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  55%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1377, Errs:0, Objs:1377, Bytes: 5252.8MiB                                    
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 2 Obj/s, 7.5MiB/s, 12601.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+
+Reqs: 1386, Errs:0, Objs:1386, Bytes: 5287.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.5MiB/s; Current 1 Obj/s, 3.9MiB/s, 12601.4 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1387, Errs:0, Objs:1387, Bytes: 5291.0MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 327.8KiB/s, 12601.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  56%
+
+Reqs: 1388, Errs:0, Objs:1388, Bytes: 5294.8MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 292.8KiB/s, 12753.6 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  57%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  57%
+                                                                                    
+Reqs: 1423, Errs:0, Objs:1423, Bytes: 5428.3MiB                                     
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 3 Obj/s, 10.4MiB/s, 12753.6 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1430, Errs:0, Objs:1430, Bytes: 5455.0MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.2MiB/s, 12753.6 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+
+Reqs: 1441, Errs:0, Objs:1441, Bytes: 5497.0MiB                                    
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 1 Obj/s, 4.5MiB/s, 12753.6 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  58%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1451, Errs:0, Objs:1451, Bytes: 5535.1MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 301.8KiB/s, 13335.7 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  59%
+
+Reqs: 1452, Errs:0, Objs:1452, Bytes: 5538.9MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 312.6KiB/s, 13335.7 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 1485, Errs:0, Objs:1485, Bytes: 5664.8MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 10.5MiB/s, 13335.7 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  60%
+
+Reqs: 1492, Errs:0, Objs:1492, Bytes: 5691.5MiB                                     
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 3 Obj/s, 10.1MiB/s, 13335.7 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1503, Errs:0, Objs:1503, Bytes: 5733.5MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 5.6MiB/s, 13335.7 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1514, Errs:0, Objs:1514, Bytes: 5775.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 248.5KiB/s, 12486.0 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  61%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  61%
+
+Reqs: 1516, Errs:0, Objs:1516, Bytes: 5783.1MiB                                      
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 309.9KiB/s, 12486.0 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  62%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 1549, Errs:0, Objs:1549, Bytes: 5909.0MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 10.3MiB/s, 12486.0 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1558, Errs:0, Objs:1558, Bytes: 5943.3MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 7.2MiB/s, 12676.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  63%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1572, Errs:0, Objs:1572, Bytes: 5996.7MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.2MiB/s, 12676.2 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1579, Errs:0, Objs:1579, Bytes: 6023.4MiB                                    
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 1 Obj/s, 5.3MiB/s, 12676.2 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  64%
+                                                                                     
+Reqs: 1580, Errs:0, Objs:1580, Bytes: 6027.2MiB                                      
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 325.4KiB/s, 12042.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  64%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 1616, Errs:0, Objs:1616, Bytes: 6164.6MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 11.5MiB/s, 12042.4 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  65%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1623, Errs:0, Objs:1623, Bytes: 6191.3MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 10.7MiB/s, 12042.4 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  65%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1636, Errs:0, Objs:1636, Bytes: 6240.8MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.9MiB/s, 12042.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  66%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1643, Errs:0, Objs:1643, Bytes: 6267.5MiB                                      
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 0 Obj/s, 252.7KiB/s, 12042.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 1644, Errs:0, Objs:1644, Bytes: 6271.4MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 325.2KiB/s, 12346.1 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  66%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  67%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 1676, Errs:0, Objs:1676, Bytes: 6393.4MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 10.5MiB/s, 12346.1 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  68%
+
+Reqs: 1689, Errs:0, Objs:1689, Bytes: 6443.0MiB                                     
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 3 Obj/s, 12.0MiB/s, 12346.1 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░  68%
+                                                                                   
+Reqs: 1697, Errs:0, Objs:1697, Bytes: 6473.5MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.7MiB/s, 12346.1 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+
+Reqs: 1706, Errs:0, Objs:1706, Bytes: 6507.9MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 5.9MiB/s, 12346.1 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1707, Errs:0, Objs:1707, Bytes: 6511.7MiB                                      
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 0 Obj/s, 285.7KiB/s, 12123.8 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 1708, Errs:0, Objs:1708, Bytes: 6515.5MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 333.3KiB/s, 12123.8 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░  69%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░  69%
+                                                                                    
+Reqs: 1739, Errs:0, Objs:1739, Bytes: 6633.8MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 10.3MiB/s, 12123.8 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░  70%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1750, Errs:0, Objs:1750, Bytes: 6675.7MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 10.9MiB/s, 12123.8 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1767, Errs:0, Objs:1767, Bytes: 6740.6MiB                                    
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 2 Obj/s, 8.5MiB/s, 12123.8 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░  71%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░  71%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1771, Errs:0, Objs:1771, Bytes: 6755.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 0 Obj/s, 357.8KiB/s, 11851.5 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 1772, Errs:0, Objs:1772, Bytes: 6759.6MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 625.5KiB/s, 11851.5 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1773, Errs:0, Objs:1773, Bytes: 6763.5MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 465.3KiB/s, 11851.5 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░  72%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░  72%
+                                                                                    
+Reqs: 1806, Errs:0, Objs:1806, Bytes: 6889.3MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 11.0MiB/s, 11851.5 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░  73%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1820, Errs:0, Objs:1820, Bytes: 6942.7MiB                                     
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 3 Obj/s, 11.8MiB/s, 11851.5 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1828, Errs:0, Objs:1828, Bytes: 6973.3MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.9MiB/s, 11851.5 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░  73%
+
+Reqs: 1835, Errs:0, Objs:1835, Bytes: 7000.0MiB                                    
+ -       PUT Average: 5 Obj/s, 20.4MiB/s; Current 1 Obj/s, 5.0MiB/s, 11861.9 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1836, Errs:0, Objs:1836, Bytes: 7003.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 0 Obj/s, 370.4KiB/s, 11861.9 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░  74%
+
+Reqs: 1837, Errs:0, Objs:1837, Bytes: 7007.6MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 302.4KiB/s, 11861.9 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░  75%
+                                                                                    
+Reqs: 1870, Errs:0, Objs:1870, Bytes: 7133.5MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 10.1MiB/s, 12495.6 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░  75%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1878, Errs:0, Objs:1878, Bytes: 7164.0MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 8.3MiB/s, 12495.6 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+
+Reqs: 1892, Errs:0, Objs:1892, Bytes: 7217.4MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 6.0MiB/s, 12495.6 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░  76%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 1899, Errs:0, Objs:1899, Bytes: 7244.1MiB                                      
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 0 Obj/s, 266.1KiB/s, 12495.6 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░  76%
+
+Reqs: 1901, Errs:0, Objs:1901, Bytes: 7251.7MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 325.9KiB/s, 13211.2 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░  77%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 1935, Errs:0, Objs:1935, Bytes: 7381.4MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 11.0MiB/s, 13211.2 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░  77%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░  78%
+
+Reqs: 1944, Errs:0, Objs:1944, Bytes: 7415.8MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 11.5MiB/s, 13211.2 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 1958, Errs:0, Objs:1958, Bytes: 7469.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 7.9MiB/s, 13211.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+
+Reqs: 1964, Errs:0, Objs:1964, Bytes: 7492.1MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 1 Obj/s, 2.7MiB/s, 13211.2 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░  79%
+                                                                                     
+Reqs: 1965, Errs:0, Objs:1965, Bytes: 7495.9MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 320.3KiB/s, 12128.2 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████░░░░░░░░░░░░░░░  79%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████░░░░░░░░░░░░░░░  80%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 1998, Errs:0, Objs:1998, Bytes: 7621.8MiB                                     
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 3 Obj/s, 10.5MiB/s, 12128.2 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████░░░░░░░░░░░░░░  80%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 2008, Errs:0, Objs:2008, Bytes: 7659.9MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 6.1MiB/s, 12128.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████░░░░░░░░░░░░░░  81%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2020, Errs:0, Objs:2020, Bytes: 7705.7MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 1 Obj/s, 5.2MiB/s, 12128.2 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2028, Errs:0, Objs:2028, Bytes: 7736.2MiB                                      
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 0 Obj/s, 245.5KiB/s, 12445.1 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 2029, Errs:0, Objs:2029, Bytes: 7740.0MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 311.9KiB/s, 12445.1 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████░░░░░░░░░░░░░  82%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 2061, Errs:0, Objs:2061, Bytes: 7862.1MiB                                     
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 3 Obj/s, 10.1MiB/s, 12445.1 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████░░░░░░░░░░░░░  83%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2074, Errs:0, Objs:2074, Bytes: 7911.7MiB                                     
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 3 Obj/s, 11.3MiB/s, 12445.1 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████░░░░░░░░░░░░  83%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 2088, Errs:0, Objs:2088, Bytes: 7965.1MiB                                    
+ -       PUT Average: 5 Obj/s, 20.3MiB/s; Current 2 Obj/s, 8.5MiB/s, 12445.1 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████░░░░░░░░░░░░  84%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2092, Errs:0, Objs:2092, Bytes: 7980.3MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 268.5KiB/s, 12649.8 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 2093, Errs:0, Objs:2093, Bytes: 7984.2MiB                                      
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 278.3KiB/s, 13801.2 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████░░░░░░░░░░░  85%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 2123, Errs:0, Objs:2123, Bytes: 8098.6MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 2 Obj/s, 8.5MiB/s, 13801.2 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+
+Reqs: 2136, Errs:0, Objs:2136, Bytes: 8148.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 3 Obj/s, 9.8MiB/s, 13801.2 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████░░░░░░░░░░░  86%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████░░░░░░░░░░  86%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2150, Errs:0, Objs:2150, Bytes: 8201.6MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 7.1MiB/s, 13801.2 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2156, Errs:0, Objs:2156, Bytes: 8224.5MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 307.8KiB/s, 13801.2 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 2157, Errs:0, Objs:2157, Bytes: 8228.3MiB                                      
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 327.9KiB/s, 13910.1 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████░░░░░░░░░  87%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 2190, Errs:0, Objs:2190, Bytes: 8354.2MiB                                     
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 3 Obj/s, 10.9MiB/s, 13910.1 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████░░░░░░░░░  88%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2201, Errs:0, Objs:2201, Bytes: 8396.1MiB                                     
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 3 Obj/s, 11.9MiB/s, 13910.1 ms/req
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████░░░░░░░░  88%
+                                                                                   
+Reqs: 2214, Errs:0, Objs:2214, Bytes: 8445.7MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 8.1MiB/s, 13910.1 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████░░░░░░░░  89%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2219, Errs:0, Objs:2219, Bytes: 8464.8MiB                                    
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 1 Obj/s, 2.9MiB/s, 13910.1 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2220, Errs:0, Objs:2220, Bytes: 8468.6MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 335.3KiB/s, 12068.3 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+
+
+Reqs: 2221, Errs:0, Objs:2221, Bytes: 8472.4MiB                                      
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 320.6KiB/s, 12068.3 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████░░░░░░░  90%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 2253, Errs:0, Objs:2253, Bytes: 8594.5MiB                                     
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 3 Obj/s, 10.4MiB/s, 12068.3 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+
+Reqs: 2261, Errs:0, Objs:2261, Bytes: 8625.0MiB                                     
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 3 Obj/s, 11.8MiB/s, 12068.3 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████░░░░░░░  91%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 2275, Errs:0, Objs:2275, Bytes: 8678.4MiB                                    
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 2 Obj/s, 8.3MiB/s, 12068.3 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████░░░░░░  91%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2283, Errs:0, Objs:2283, Bytes: 8709.0MiB                                    
+ -       PUT Average: 5 Obj/s, 20.2MiB/s; Current 2 Obj/s, 7.4MiB/s, 12068.3 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2284, Errs:0, Objs:2284, Bytes: 8712.8MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 304.5KiB/s, 12261.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████░░░░░░  92%
+
+Reqs: 2285, Errs:0, Objs:2285, Bytes: 8716.6MiB                                      
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 314.4KiB/s, 12261.4 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████████░░░░░  93%
+                                                                                   
+Reqs: 2314, Errs:0, Objs:2314, Bytes: 8827.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 2 Obj/s, 9.3MiB/s, 12261.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+
+Reqs: 2324, Errs:0, Objs:2324, Bytes: 8865.4MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 2 Obj/s, 6.6MiB/s, 12261.4 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2337, Errs:0, Objs:2337, Bytes: 8914.9MiB                                    
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 1 Obj/s, 5.5MiB/s, 12454.2 ms/req
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████████░░░░░  94%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2347, Errs:0, Objs:2347, Bytes: 8953.1MiB                                    
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 2 Obj/s, 6.0MiB/s, 12454.2 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2348, Errs:0, Objs:2348, Bytes: 8956.9MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 277.8KiB/s, 12454.2 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████████░░░░  95%
+
+Reqs: 2349, Errs:0, Objs:2349, Bytes: 8960.7MiB                                      
+ -       PUT Average: 5 Obj/s, 19.7MiB/s; Current 0 Obj/s, 271.3KiB/s, 12785.5 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 2379, Errs:0, Objs:2379, Bytes: 9075.2MiB                                    
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 2 Obj/s, 8.2MiB/s, 12785.5 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████████░░░  95%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2392, Errs:0, Objs:2392, Bytes: 9124.8MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 3 Obj/s, 9.9MiB/s, 12785.5 ms/req
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████████░░░  96%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2406, Errs:0, Objs:2406, Bytes: 9178.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 2 Obj/s, 7.5MiB/s, 12785.5 ms/req
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2411, Errs:0, Objs:2411, Bytes: 9197.2MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 1 Obj/s, 5.5MiB/s, 12785.5 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2412, Errs:0, Objs:2412, Bytes: 9201.0MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 340.2KiB/s, 12785.5 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████████░░░  97%
+
+Reqs: 2413, Errs:0, Objs:2413, Bytes: 9204.9MiB                                      
+ -       PUT Average: 5 Obj/s, 19.7MiB/s; Current 0 Obj/s, 314.0KiB/s, 14184.0 ms/req
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████████░░  97%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████████░░  98%
+                                                                                    
+Reqs: 2445, Errs:0, Objs:2445, Bytes: 9326.9MiB                                     
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 3 Obj/s, 10.2MiB/s, 14184.0 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████████████░  98%
+                                                                                   
+Reqs: 2458, Errs:0, Objs:2458, Bytes: 9376.5MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 2 Obj/s, 6.8MiB/s, 14184.0 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████████████░  99%
+
+Reqs: 2469, Errs:0, Objs:2469, Bytes: 9418.5MiB                                    
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 2 Obj/s, 5.8MiB/s, 14184.0 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2476, Errs:0, Objs:2476, Bytes: 9445.2MiB                                      
+ -       PUT Average: 5 Obj/s, 19.9MiB/s; Current 0 Obj/s, 306.8KiB/s, 12393.4 ms/req
+                                                                                     
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████████████ 100%
+
+Reqs: 2477, Errs:0, Objs:2477, Bytes: 9449.0MiB                                      
+ -       PUT Average: 5 Obj/s, 19.8MiB/s; Current 0 Obj/s, 418.8KiB/s, 12393.4 ms/req
+
+[11A
+
+
+
+
+
+
+                                                                                    
+Reqs: 2515, Errs:0, Objs:2515, Bytes: 9594.0MiB                                     
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 4 Obj/s, 13.9MiB/s, 12393.4 ms/req
+                                                                                    
+[11A
+
+
+
+
+
+
+                                                                                   
+Reqs: 2531, Errs:0, Objs:2531, Bytes: 9655.0MiB                                    
+ -       PUT Average: 5 Obj/s, 20.1MiB/s; Current 2 Obj/s, 9.1MiB/s, 12393.4 ms/req
+                                                                                   
+[11A
+
+
+
+
+
+
+                                                                                     
+Reqs: 2533, Errs:0, Objs:2533, Bytes: 9662.6MiB                                      
+ -       PUT Average: 5 Obj/s, 20.0MiB/s; Current 0 Obj/s, 735.8KiB/s, 10468.2 ms/req
+                                                                                     
+[11A
+
+
+                                         
+Benchmarking: Starting benchmark in 3s...
+                                            
+ λ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
+
+[J[8A
+
+
+
+
+
+ λ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%
+
+[8A
+
+
+
+
+
+ λ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+[8A
+
+
+                                              
+Benchmarking: Press 'q' to stop benchmark. ...
+                                                 
+
+
+[8A
+
+
+
+
+
+ λ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1%
+
+[8A
+
+
+
+
+
+ λ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%
+                                      
+Reqs: 1, Errs:0, Objs:1, Bytes: 3.8MiB
+                                      
+[10A
+
+
+
+
+
+ λ ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2%
+
+
+
+[10A
+
+
+
+
+
+
+                                          
+Reqs: 47, Errs:0, Objs:47, Bytes: 179.3MiB
+                                          
+[10A
+
+
+
+
+
+ λ ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+
+
+
+[10A
+
+
+
+
+
+
+                                                                       
+Reqs: 65, Errs:0, Objs:65, Bytes: 248.0MiB                             
+ -       GET Average: 21 Obj/s, 78.6MiB/s; Current 21 Obj/s, 78.6MiB/s.
+                                                                       
+[11A
+
+
+
+
+
+ λ ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 82, Errs:0, Objs:82, Bytes: 312.8MiB                             
+ -       GET Average: 18 Obj/s, 70.5MiB/s; Current 14 Obj/s, 52.8MiB/s.
+
+[11A
+
+
+
+
+
+ λ ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 104, Errs:0, Objs:104, Bytes: 396.7MiB                           
+ -       GET Average: 19 Obj/s, 72.8MiB/s; Current 14 Obj/s, 53.2MiB/s.
+
+[11A
+
+
+
+
+
+ λ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 128, Errs:0, Objs:128, Bytes: 488.3MiB                           
+ -       GET Average: 20 Obj/s, 76.7MiB/s; Current 15 Obj/s, 58.2MiB/s.
+
+[11A
+
+
+
+
+
+ λ █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 155, Errs:0, Objs:155, Bytes: 591.3MiB                           
+ -       GET Average: 21 Obj/s, 79.3MiB/s; Current 18 Obj/s, 69.8MiB/s.
+
+[11A
+
+
+
+
+
+ λ ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8%
+
+Reqs: 182, Errs:0, Objs:182, Bytes: 694.3MiB                           
+ -       GET Average: 21 Obj/s, 81.6MiB/s; Current 21 Obj/s, 82.0MiB/s.
+
+[11A
+
+
+
+
+
+ λ ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%
+
+Reqs: 206, Errs:0, Objs:206, Bytes: 785.8MiB                           
+ -       GET Average: 22 Obj/s, 83.5MiB/s; Current 23 Obj/s, 86.6MiB/s.
+
+[11A
+
+
+
+
+
+ λ ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+
+Reqs: 230, Errs:0, Objs:230, Bytes: 877.4MiB                           
+ -       GET Average: 22 Obj/s, 84.7MiB/s; Current 22 Obj/s, 83.5MiB/s.
+
+[11A
+
+
+
+
+
+ λ ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+                                                                                                     
+Reqs: 255, Errs:0, Objs:255, Bytes: 972.7MiB                                                         
+ -       GET Average: 22 Obj/s, 85.6MiB/s; Current 22 Obj/s, 82.0MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+                                                                                                     
+[11A
+
+
+
+
+
+ λ ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  11%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 281, Errs:0, Objs:281, Bytes: 1071.9MiB                                                        
+ -       GET Average: 23 Obj/s, 86.5MiB/s; Current 22 Obj/s, 83.8MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+ λ ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 307, Errs:0, Objs:307, Bytes: 1171.1MiB                                                        
+ -       GET Average: 23 Obj/s, 87.2MiB/s; Current 23 Obj/s, 86.7MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+ λ █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13%
+
+Reqs: 334, Errs:0, Objs:334, Bytes: 1274.1MiB                                                        
+ -       GET Average: 23 Obj/s, 88.1MiB/s; Current 24 Obj/s, 91.6MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+ λ ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  14%
+
+Reqs: 351, Errs:0, Objs:351, Bytes: 1339.0MiB                                                        
+ -       GET Average: 23 Obj/s, 88.1MiB/s; Current 22 Obj/s, 82.9MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+ λ ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%
+
+Reqs: 367, Errs:0, Objs:367, Bytes: 1400.0MiB                                                        
+ -       GET Average: 23 Obj/s, 87.1MiB/s; Current 17 Obj/s, 63.6MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+
+
+Reqs: 392, Errs:0, Objs:392, Bytes: 1495.4MiB                                                        
+ -       GET Average: 22 Obj/s, 83.7MiB/s; Current 10 Obj/s, 38.9MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+ λ ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  16%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 419, Errs:0, Objs:419, Bytes: 1598.4MiB                                                        
+ -       GET Average: 22 Obj/s, 84.8MiB/s; Current 13 Obj/s, 49.6MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+ λ ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  17%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 446, Errs:0, Objs:446, Bytes: 1701.4MiB                                                        
+ -       GET Average: 22 Obj/s, 85.5MiB/s; Current 16 Obj/s, 59.1MiB/s, 2794.2 ms/req, TTFB: 2792.2ms
+
+[11A
+
+
+
+
+
+ λ █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  17%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  18%
+
+Reqs: 475, Errs:0, Objs:475, Bytes: 1812.0MiB                                                        
+ -       GET Average: 23 Obj/s, 86.7MiB/s; Current 18 Obj/s, 69.7MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  19%
+
+Reqs: 504, Errs:0, Objs:504, Bytes: 1922.6MiB                                                        
+ -       GET Average: 23 Obj/s, 87.8MiB/s; Current 19 Obj/s, 73.6MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+
+Reqs: 530, Errs:0, Objs:530, Bytes: 2021.8MiB                                                        
+ -       GET Average: 23 Obj/s, 88.5MiB/s; Current 19 Obj/s, 71.3MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 546, Errs:0, Objs:546, Bytes: 2082.8MiB                                                        
+ -       GET Average: 23 Obj/s, 87.7MiB/s; Current 13 Obj/s, 48.4MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                                    
+Reqs: 563, Errs:0, Objs:563, Bytes: 2147.7MiB                                                       
+ -       GET Average: 23 Obj/s, 86.7MiB/s; Current 9 Obj/s, 35.1MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+                                                                                                    
+[11A
+
+
+
+
+
+ λ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  22%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 580, Errs:0, Objs:580, Bytes: 2212.5MiB                                                       
+ -       GET Average: 22 Obj/s, 85.8MiB/s; Current 9 Obj/s, 32.9MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  23%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  23%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 596, Errs:0, Objs:596, Bytes: 2273.6MiB                                                       
+ -       GET Average: 22 Obj/s, 84.9MiB/s; Current 8 Obj/s, 28.6MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ █████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  24%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                                     
+Reqs: 622, Errs:0, Objs:622, Bytes: 2372.7MiB                                                        
+ -       GET Average: 22 Obj/s, 85.1MiB/s; Current 10 Obj/s, 38.8MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+                                                                                                     
+[11A
+
+
+
+
+
+ λ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  24%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
+
+Reqs: 649, Errs:0, Objs:649, Bytes: 2475.7MiB                                                        
+ -       GET Average: 22 Obj/s, 85.5MiB/s; Current 14 Obj/s, 54.4MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  26%
+
+Reqs: 678, Errs:0, Objs:678, Bytes: 2586.4MiB                                                        
+ -       GET Average: 23 Obj/s, 86.1MiB/s; Current 19 Obj/s, 70.6MiB/s, 2717.6 ms/req, TTFB: 2714.8ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  27%
+
+Reqs: 705, Errs:0, Objs:705, Bytes: 2689.4MiB                                                        
+ -       GET Average: 23 Obj/s, 86.7MiB/s; Current 21 Obj/s, 79.1MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  27%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 732, Errs:0, Objs:732, Bytes: 2792.4MiB                                                        
+ -       GET Average: 23 Obj/s, 87.1MiB/s; Current 21 Obj/s, 78.6MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  28%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  28%
+
+Reqs: 758, Errs:0, Objs:758, Bytes: 2891.5MiB                                                        
+ -       GET Average: 23 Obj/s, 87.6MiB/s; Current 20 Obj/s, 77.0MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  29%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 783, Errs:0, Objs:783, Bytes: 2986.9MiB                                                        
+ -       GET Average: 23 Obj/s, 87.9MiB/s; Current 19 Obj/s, 72.5MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  29%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  30%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 809, Errs:0, Objs:809, Bytes: 3086.1MiB                                                        
+ -       GET Average: 23 Obj/s, 88.2MiB/s; Current 19 Obj/s, 72.2MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  31%
+
+Reqs: 834, Errs:0, Objs:834, Bytes: 3181.5MiB                                                        
+ -       GET Average: 23 Obj/s, 88.4MiB/s; Current 19 Obj/s, 71.0MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  31%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  32%
+
+Reqs: 860, Errs:0, Objs:860, Bytes: 3280.6MiB                                                        
+ -       GET Average: 23 Obj/s, 88.6MiB/s; Current 19 Obj/s, 72.9MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  32%
+
+Reqs: 884, Errs:0, Objs:884, Bytes: 3372.2MiB                                                        
+ -       GET Average: 23 Obj/s, 88.8MiB/s; Current 19 Obj/s, 71.6MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  33%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 911, Errs:0, Objs:911, Bytes: 3475.2MiB                                                        
+ -       GET Average: 23 Obj/s, 89.0MiB/s; Current 19 Obj/s, 73.8MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  34%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 937, Errs:0, Objs:937, Bytes: 3574.4MiB                                                        
+ -       GET Average: 23 Obj/s, 89.3MiB/s; Current 20 Obj/s, 76.7MiB/s, 2860.0 ms/req, TTFB: 2857.9ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  35%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 964, Errs:0, Objs:964, Bytes: 3677.4MiB                                                        
+ -       GET Average: 23 Obj/s, 89.5MiB/s; Current 21 Obj/s, 79.3MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  35%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  36%
+
+Reqs: 989, Errs:0, Objs:989, Bytes: 3772.7MiB                                                        
+ -       GET Average: 24 Obj/s, 89.7MiB/s; Current 21 Obj/s, 79.3MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  37%
+
+Reqs: 1015, Errs:0, Objs:1015, Bytes: 3871.9MiB                                                      
+ -       GET Average: 24 Obj/s, 89.8MiB/s; Current 21 Obj/s, 78.8MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1041, Errs:0, Objs:1041, Bytes: 3971.1MiB                                                      
+ -       GET Average: 24 Obj/s, 90.0MiB/s; Current 21 Obj/s, 80.3MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  38%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  38%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1067, Errs:0, Objs:1067, Bytes: 4070.3MiB                                                      
+ -       GET Average: 24 Obj/s, 90.2MiB/s; Current 21 Obj/s, 81.9MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  39%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  39%
+
+Reqs: 1093, Errs:0, Objs:1093, Bytes: 4169.5MiB                                                      
+ -       GET Average: 24 Obj/s, 90.4MiB/s; Current 22 Obj/s, 83.2MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  40%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1120, Errs:0, Objs:1120, Bytes: 4272.5MiB                                                      
+ -       GET Average: 24 Obj/s, 90.6MiB/s; Current 22 Obj/s, 85.1MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  40%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  41%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1150, Errs:0, Objs:1150, Bytes: 4386.9MiB                                                      
+ -       GET Average: 24 Obj/s, 90.9MiB/s; Current 24 Obj/s, 91.6MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  42%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1177, Errs:0, Objs:1177, Bytes: 4489.9MiB                                                      
+ -       GET Average: 24 Obj/s, 91.1MiB/s; Current 25 Obj/s, 95.6MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  42%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  43%
+
+Reqs: 1205, Errs:0, Objs:1205, Bytes: 4596.7MiB                                                      
+ -       GET Average: 24 Obj/s, 91.4MiB/s; Current 25 Obj/s, 97.3MiB/s, 2508.6 ms/req, TTFB: 2506.7ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  43%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1234, Errs:0, Objs:1234, Bytes: 4707.3MiB                                                      
+ -       GET Average: 24 Obj/s, 91.7MiB/s; Current 26 Obj/s, 99.8MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  44%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1261, Errs:0, Objs:1261, Bytes: 4810.3MiB                                                      
+ -       GET Average: 24 Obj/s, 92.0MiB/s; Current 26 Obj/s, 99.4MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  45%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1289, Errs:0, Objs:1289, Bytes: 4917.1MiB                                                      
+ -       GET Average: 24 Obj/s, 92.2MiB/s; Current 26 Obj/s, 98.1MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  46%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  46%
+
+Reqs: 1315, Errs:0, Objs:1315, Bytes: 5016.3MiB                                                      
+ -       GET Average: 24 Obj/s, 92.4MiB/s; Current 25 Obj/s, 95.7MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  47%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1342, Errs:0, Objs:1342, Bytes: 5119.3MiB                                                      
+ -       GET Average: 24 Obj/s, 92.6MiB/s; Current 25 Obj/s, 94.6MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  47%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  48%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1370, Errs:0, Objs:1370, Bytes: 5226.1MiB                                                      
+ -       GET Average: 24 Obj/s, 92.8MiB/s; Current 25 Obj/s, 95.5MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  49%
+
+Reqs: 1392, Errs:0, Objs:1392, Bytes: 5310.1MiB                                                      
+ -       GET Average: 24 Obj/s, 92.8MiB/s; Current 24 Obj/s, 91.4MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  49%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                                    
+Reqs: 1408, Errs:0, Objs:1408, Bytes: 5371.1MiB                                                     
+ -       GET Average: 24 Obj/s, 91.6MiB/s; Current 9 Obj/s, 34.6MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+                                                                                                    
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  50%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  50%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1425, Errs:0, Objs:1425, Bytes: 5435.9MiB                                                     
+ -       GET Average: 24 Obj/s, 91.1MiB/s; Current 8 Obj/s, 30.9MiB/s, 2464.2 ms/req, TTFB: 2462.3ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  51%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1440, Errs:0, Objs:1440, Bytes: 5493.2MiB                                                     
+ -       GET Average: 24 Obj/s, 90.6MiB/s; Current 7 Obj/s, 26.6MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  52%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1461, Errs:0, Objs:1461, Bytes: 5573.3MiB                                                     
+ -       GET Average: 24 Obj/s, 90.4MiB/s; Current 8 Obj/s, 29.1MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  53%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  53%
+                                                                                                     
+Reqs: 1489, Errs:0, Objs:1489, Bytes: 5680.1MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 12 Obj/s, 44.9MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+                                                                                                     
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  54%
+
+Reqs: 1509, Errs:0, Objs:1509, Bytes: 5756.4MiB                                                      
+ -       GET Average: 24 Obj/s, 90.4MiB/s; Current 12 Obj/s, 46.5MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  54%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                                    
+Reqs: 1523, Errs:0, Objs:1523, Bytes: 5809.8MiB                                                     
+ -       GET Average: 24 Obj/s, 89.8MiB/s; Current 9 Obj/s, 33.1MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+                                                                                                    
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  55%
+
+
+
+
+[11A
+
+
+
+
+
+
+                                                                                                     
+Reqs: 1546, Errs:0, Objs:1546, Bytes: 5897.5MiB                                                      
+ -       GET Average: 24 Obj/s, 89.7MiB/s; Current 10 Obj/s, 38.3MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+                                                                                                     
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  56%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1572, Errs:0, Objs:1572, Bytes: 5996.7MiB                                                      
+ -       GET Average: 24 Obj/s, 89.8MiB/s; Current 13 Obj/s, 48.3MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  57%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  57%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1598, Errs:0, Objs:1598, Bytes: 6095.9MiB                                                      
+ -       GET Average: 24 Obj/s, 89.8MiB/s; Current 15 Obj/s, 56.4MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  58%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1624, Errs:0, Objs:1624, Bytes: 6195.1MiB                                                      
+ -       GET Average: 24 Obj/s, 90.0MiB/s; Current 17 Obj/s, 66.2MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  58%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  59%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1650, Errs:0, Objs:1650, Bytes: 6294.3MiB                                                      
+ -       GET Average: 24 Obj/s, 90.1MiB/s; Current 18 Obj/s, 67.4MiB/s, 2575.0 ms/req, TTFB: 2572.8ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  60%
+
+Reqs: 1677, Errs:0, Objs:1677, Bytes: 6397.2MiB                                                      
+ -       GET Average: 24 Obj/s, 90.2MiB/s; Current 18 Obj/s, 69.8MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1700, Errs:0, Objs:1700, Bytes: 6485.0MiB                                                      
+ -       GET Average: 24 Obj/s, 90.3MiB/s; Current 17 Obj/s, 66.0MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  61%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  61%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1726, Errs:0, Objs:1726, Bytes: 6584.2MiB                                                      
+ -       GET Average: 24 Obj/s, 90.3MiB/s; Current 17 Obj/s, 65.0MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  62%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1753, Errs:0, Objs:1753, Bytes: 6687.2MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 18 Obj/s, 70.5MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  63%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1777, Errs:0, Objs:1777, Bytes: 6778.7MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 18 Obj/s, 68.0MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  64%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  64%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1801, Errs:0, Objs:1801, Bytes: 6870.3MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 17 Obj/s, 65.9MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  65%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1827, Errs:0, Objs:1827, Bytes: 6969.5MiB                                                      
+ -       GET Average: 24 Obj/s, 90.6MiB/s; Current 18 Obj/s, 67.6MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  65%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  66%
+
+Reqs: 1851, Errs:0, Objs:1851, Bytes: 7061.0MiB                                                      
+ -       GET Average: 24 Obj/s, 90.6MiB/s; Current 17 Obj/s, 66.4MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  66%
+
+Reqs: 1877, Errs:0, Objs:1877, Bytes: 7160.2MiB                                                      
+ -       GET Average: 24 Obj/s, 90.7MiB/s; Current 18 Obj/s, 69.3MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  67%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1905, Errs:0, Objs:1905, Bytes: 7267.0MiB                                                      
+ -       GET Average: 24 Obj/s, 90.8MiB/s; Current 20 Obj/s, 77.3MiB/s, 2990.0 ms/req, TTFB: 2988.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░  68%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░  68%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1933, Errs:0, Objs:1933, Bytes: 7373.8MiB                                                      
+ -       GET Average: 24 Obj/s, 91.0MiB/s; Current 22 Obj/s, 84.4MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░  69%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1960, Errs:0, Objs:1960, Bytes: 7476.8MiB                                                      
+ -       GET Average: 24 Obj/s, 91.1MiB/s; Current 23 Obj/s, 87.3MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░  69%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░  70%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 1988, Errs:0, Objs:1988, Bytes: 7583.6MiB                                                      
+ -       GET Average: 24 Obj/s, 91.3MiB/s; Current 23 Obj/s, 88.4MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░  71%
+
+Reqs: 2011, Errs:0, Objs:2011, Bytes: 7671.4MiB                                                      
+ -       GET Average: 24 Obj/s, 91.3MiB/s; Current 21 Obj/s, 80.5MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2035, Errs:0, Objs:2035, Bytes: 7762.9MiB                                                      
+ -       GET Average: 24 Obj/s, 91.3MiB/s; Current 19 Obj/s, 72.8MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░  72%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░  72%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2059, Errs:0, Objs:2059, Bytes: 7854.5MiB                                                      
+ -       GET Average: 24 Obj/s, 91.4MiB/s; Current 19 Obj/s, 70.6MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░  73%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2080, Errs:0, Objs:2080, Bytes: 7934.6MiB                                                      
+ -       GET Average: 24 Obj/s, 91.3MiB/s; Current 17 Obj/s, 65.1MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░  73%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░  74%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2102, Errs:0, Objs:2102, Bytes: 8018.5MiB                                                      
+ -       GET Average: 24 Obj/s, 91.2MiB/s; Current 16 Obj/s, 61.2MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░  75%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░  75%
+
+Reqs: 2124, Errs:0, Objs:2124, Bytes: 8102.4MiB                                                      
+ -       GET Average: 24 Obj/s, 91.1MiB/s; Current 16 Obj/s, 60.1MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░  76%
+
+Reqs: 2148, Errs:0, Objs:2148, Bytes: 8194.0MiB                                                      
+ -       GET Average: 24 Obj/s, 91.1MiB/s; Current 16 Obj/s, 62.5MiB/s, 2580.3 ms/req, TTFB: 2578.4ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░  76%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2171, Errs:0, Objs:2171, Bytes: 8281.7MiB                                                      
+ -       GET Average: 24 Obj/s, 91.0MiB/s; Current 17 Obj/s, 65.7MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░  77%
+
+
+
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░  78%
+
+Reqs: 2195, Errs:0, Objs:2195, Bytes: 8373.3MiB                                                      
+ -       GET Average: 24 Obj/s, 91.0MiB/s; Current 18 Obj/s, 68.2MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2215, Errs:0, Objs:2215, Bytes: 8449.6MiB                                                      
+ -       GET Average: 24 Obj/s, 90.9MiB/s; Current 17 Obj/s, 63.7MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████░░░░░░░░░░░░░░░  79%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2238, Errs:0, Objs:2238, Bytes: 8537.3MiB                                                      
+ -       GET Average: 24 Obj/s, 90.8MiB/s; Current 16 Obj/s, 62.6MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████░░░░░░░░░░░░░░░  80%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2256, Errs:0, Objs:2256, Bytes: 8606.0MiB                                                      
+ -       GET Average: 24 Obj/s, 90.6MiB/s; Current 15 Obj/s, 57.5MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████░░░░░░░░░░░░░░  80%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████░░░░░░░░░░░░░░  81%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2277, Errs:0, Objs:2277, Bytes: 8686.1MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 15 Obj/s, 55.6MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████░░░░░░░░░░░░░  82%
+
+Reqs: 2299, Errs:0, Objs:2299, Bytes: 8770.0MiB                                                      
+ -       GET Average: 24 Obj/s, 90.4MiB/s; Current 15 Obj/s, 57.9MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████░░░░░░░░░░░░░  83%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2323, Errs:0, Objs:2323, Bytes: 8861.5MiB                                                      
+ -       GET Average: 24 Obj/s, 90.3MiB/s; Current 17 Obj/s, 63.5MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████░░░░░░░░░░░░  83%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2349, Errs:0, Objs:2349, Bytes: 8960.7MiB                                                      
+ -       GET Average: 24 Obj/s, 90.3MiB/s; Current 19 Obj/s, 73.9MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████░░░░░░░░░░░░  84%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████░░░░░░░░░░░  84%
+
+Reqs: 2376, Errs:0, Objs:2376, Bytes: 9063.7MiB                                                      
+ -       GET Average: 24 Obj/s, 90.3MiB/s; Current 22 Obj/s, 84.6MiB/s, 2644.2 ms/req, TTFB: 2642.0ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████░░░░░░░░░░░  85%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2403, Errs:0, Objs:2403, Bytes: 9166.7MiB                                                      
+ -       GET Average: 24 Obj/s, 90.4MiB/s; Current 24 Obj/s, 92.9MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████░░░░░░░░░░░  86%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████░░░░░░░░░░  86%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2429, Errs:0, Objs:2429, Bytes: 9265.9MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 25 Obj/s, 95.4MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████░░░░░░░░░░  87%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2456, Errs:0, Objs:2456, Bytes: 9368.9MiB                                                      
+ -       GET Average: 24 Obj/s, 90.6MiB/s; Current 25 Obj/s, 95.2MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████░░░░░░░░░  87%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████░░░░░░░░░  88%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2482, Errs:0, Objs:2482, Bytes: 9468.1MiB                                                      
+ -       GET Average: 24 Obj/s, 90.4MiB/s; Current 16 Obj/s, 59.8MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████░░░░░░░░  88%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2508, Errs:0, Objs:2508, Bytes: 9567.3MiB                                                      
+ -       GET Average: 24 Obj/s, 90.4MiB/s; Current 16 Obj/s, 60.6MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████░░░░░░░░  89%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2532, Errs:0, Objs:2532, Bytes: 9658.8MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 15 Obj/s, 58.4MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████░░░░░░░░  90%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████░░░░░░░  90%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2558, Errs:0, Objs:2558, Bytes: 9758.0MiB                                                      
+ -       GET Average: 24 Obj/s, 90.5MiB/s; Current 15 Obj/s, 58.8MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████░░░░░░░  91%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2587, Errs:0, Objs:2587, Bytes: 9868.6MiB                                                      
+ -       GET Average: 24 Obj/s, 90.7MiB/s; Current 17 Obj/s, 65.6MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████░░░░░░  91%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████░░░░░░  92%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2616, Errs:0, Objs:2616, Bytes: 9979.2MiB                                                      
+ -       GET Average: 24 Obj/s, 90.8MiB/s; Current 19 Obj/s, 73.8MiB/s, 2938.2 ms/req, TTFB: 2935.9ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████████░░░░░  93%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2646, Errs:0, Objs:2646, Bytes: 10093.7MiB                                                     
+ -       GET Average: 24 Obj/s, 91.0MiB/s; Current 21 Obj/s, 79.3MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████████░░░░  94%
+
+Reqs: 2675, Errs:0, Objs:2675, Bytes: 10204.3MiB                                                     
+ -       GET Average: 24 Obj/s, 91.2MiB/s; Current 22 Obj/s, 82.5MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████████░░░░  95%
+
+Reqs: 2704, Errs:0, Objs:2704, Bytes: 10.07GiB                                                       
+ -       GET Average: 24 Obj/s, 91.3MiB/s; Current 22 Obj/s, 83.6MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+ λ ██████████████████████████████████████████████████████████████████████░░░  96%
+
+Reqs: 2732, Errs:0, Objs:2732, Bytes: 10.18GiB                                                       
+ -       GET Average: 24 Obj/s, 91.5MiB/s; Current 22 Obj/s, 82.2MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2761, Errs:0, Objs:2761, Bytes: 10.29GiB                                                       
+ -       GET Average: 24 Obj/s, 91.6MiB/s; Current 22 Obj/s, 83.3MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████████░░  97%
+
+
+
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2791, Errs:0, Objs:2791, Bytes: 10.40GiB                                                       
+ -       GET Average: 24 Obj/s, 91.8MiB/s; Current 23 Obj/s, 86.7MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+ λ ███████████████████████████████████████████████████████████████████████░░  98%
+
+
+
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████████████░  98%
+
+Reqs: 2819, Errs:0, Objs:2819, Bytes: 10.50GiB                                                       
+ -       GET Average: 24 Obj/s, 91.9MiB/s; Current 23 Obj/s, 85.9MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+ λ ████████████████████████████████████████████████████████████████████████░  99%
+
+Reqs: 2847, Errs:0, Objs:2847, Bytes: 10.61GiB                                                       
+ -       GET Average: 24 Obj/s, 92.1MiB/s; Current 22 Obj/s, 84.6MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+ λ █████████████████████████████████████████████████████████████████████████ 100%
+
+Reqs: 2874, Errs:0, Objs:2874, Bytes: 10.71GiB                                                       
+ -       GET Average: 24 Obj/s, 92.2MiB/s; Current 22 Obj/s, 82.3MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[11A
+
+
+
+
+
+
+
+Reqs: 2902, Errs:0, Objs:2902, Bytes: 10.81GiB                                                       
+ -       GET Average: 24 Obj/s, 92.3MiB/s; Current 21 Obj/s, 81.9MiB/s, 2457.9 ms/req, TTFB: 2456.0ms
+
+[2K[?2004l[?25h[?1002l[?1003l[?1006l
+Report: GET. Concurrency: 64. Ran: 1m59s
+ * Average: 92.51 MiB/s, 24.25 obj/s
+ * Reqs: Avg: 2612.5ms, 50%: 2572.6ms, 90%: 2966.7ms, 99%: 3102.2ms, Fastest: 2067.5ms, Slowest: 4046.1ms, StdDev: 235.6ms
+ * TTFB: Avg: 2.61s, Best: 2.066s, 25th: 2.423s, Median: 2.571s, 75th: 2.763s, 90th: 2.965s, 99th: 3.1s, Worst: 4.044s StdDev: 236ms
+
+Throughput, split into 119 x 1s:
+ * Fastest: 108.5MiB/s, 28.43 obj/s
+ * 50% Median: 95.6MiB/s, 25.07 obj/s
+ * Slowest: 67.0MiB/s, 17.56 obj/s
+
+
+
+Cleanup
+Starting cleanup                                                                Clearing Prefix "read-bench/m(83TlYW/"                                          Clearing Prefix "read-bench/EA1gAuw8/"                                          Clearing Prefix "read-bench/QjcryLFG/"                                          Clearing Prefix "read-bench/QCSzO22M/"                                          Clearing Prefix "read-bench/C5tuvOms/"                                          Clearing Prefix "read-bench/pOeR0ohf/"                                          Clearing Prefix "read-bench/aqaqxa(u/"                                          Clearing Prefix "read-bench/oTSonRYQ/"                                          Clearing Prefix "read-bench/4uCNOlbh/"                                          Clearing Prefix "read-bench/bAKGTz4n/"                                          Clearing Prefix "read-bench/6oKIUIPa/"                                          Clearing Prefix "read-bench/EbNCtPgy/"                                          Clearing Prefix "read-bench/QI(xgmrb/"                                          Clearing Prefix "read-bench/CXmIqBnd/"                                          Clearing Prefix "read-bench/6Cr1PQRn/"                                          Clearing Prefix "read-bench/e6cx14IJ/"                                          Clearing Prefix "read-bench/ue8WmFxP/"                                          Clearing Prefix "read-bench/qcwsr5oy/"                                          Clearing Prefix "read-bench/UfDvAy0V/"                                          Clearing Prefix "read-bench/utvqc(my/"                                          Clearing Prefix "read-bench/)vFsxfHC/"                                          Clearing Prefix "read-bench/Cgy2vum)/"                                          Clearing Prefix "read-bench/oZrwZO8g/"                                          Clearing Prefix "read-bench/9Ovrhezs/"                                          Clearing Prefix "read-bench/ImNF5)VQ/"                                          Clearing Prefix "read-bench/NSrFPips/"                                          Clearing Prefix "read-bench/IRkiRBQd/"                                          Clearing Prefix "read-bench/nerT556S/"                                          Clearing Prefix "read-bench/TGP0g0Th/"                                          Clearing Prefix "read-bench/qiiIsasP/"                                          Clearing Prefix "read-bench/VX2CyRod/"                                          Clearing Prefix "read-bench/Kyv91O6D/"                                          Clearing Prefix "read-bench/E(IIc9xu/"                                          Clearing Prefix "read-bench/PSi9mBgc/"                                          Clearing Prefix "read-bench/KeNl64cx/"                                          Clearing Prefix "read-bench/nkLpGeA9/"                                          Clearing Prefix "read-bench/BorvU89i/"                                          Clearing Prefix "read-bench/U0zRF0AY/"                                          Clearing Prefix "read-bench/dLY0U0F(/"                                          Clearing Prefix "read-bench/CeBMBUq(/"                                          Clearing Prefix "read-bench/lcsIhU6L/"                                          Clearing Prefix "read-bench/gP7NQZcb/"                                          Clearing Prefix "read-bench/gM7bPyja/"                                          Clearing Prefix "read-bench/XTTeVCl)/"                                          Clearing Prefix "read-bench/AnUWFOgQ/"                                          Clearing Prefix "read-bench/YaF3LRDj/"                                          Clearing Prefix "read-bench/tQ(CVtIT/"                                          Clearing Prefix "read-bench/EoMcI2VH/"                                          Clearing Prefix "read-bench/dBsTWvv8/"                                          Clearing Prefix "read-bench/D0ncaCqj/"                                          Clearing Prefix "read-bench/Em08xJYw/"                                          Clearing Prefix "read-bench/z)TJPfSH/"                                          Clearing Prefix "read-bench/yKeP75di/"                                          Clearing Prefix "read-bench/QgvabsR2/"                                          Clearing Prefix "read-bench/iZhfty3d/"                                          Clearing Prefix "read-bench/AYtZIIhf/"                                          Clearing Prefix "read-bench/x4w8psbi/"                                          Clearing Prefix "read-bench/xrPk7esc/"                                          Clearing Prefix "read-bench/qkmRZnzV/"                                          Clearing Prefix "read-bench/SFelM)Zx/"                                          Clearing Prefix "read-bench/DrYYkmdM/"                                          Clearing Prefix "read-bench/aNuWLam(/"                                          Clearing Prefix "read-bench/7(aqwKFj/"                                          Clearing Prefix "read-bench/7r)r)sPN/"                                          Cleanup Done                                                                    Cleanup Done                                                                    
+PEAK MEMORY: 375.97 MB
