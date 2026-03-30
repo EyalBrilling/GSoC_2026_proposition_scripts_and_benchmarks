@@ -1,0 +1,33 @@
+
+ Performance counter stats for process id '154643':
+
+    45,253,935,091      task-clock                       #    4.497 CPUs utilized             
+         1,877,013      context-switches                 #   41.477 K/sec                     
+           787,891      cpu-migrations                   #   17.410 K/sec                     
+                30      page-faults                      #    0.663 /sec                      
+    47,217,070,286      cpu_atom/instructions/           #    0.72  insn per cycle              (43.69%)
+    50,984,468,550      cpu_core/instructions/           #    0.86  insn per cycle              (30.46%)
+    65,814,889,709      cpu_atom/cycles/                 #    1.454 GHz                         (44.12%)
+    59,389,495,201      cpu_core/cycles/                 #    1.312 GHz                         (30.46%)
+     8,699,284,481      cpu_atom/branches/               #  192.233 M/sec                       (44.23%)
+     9,255,298,270      cpu_core/branches/               #  204.519 M/sec                       (30.46%)
+       114,658,648      cpu_atom/branch-misses/          #    1.32% of all branches             (44.54%)
+       108,371,825      cpu_core/branch-misses/          #    1.17% of all branches             (30.47%)
+ #     28.2 %  tma_backend_bound      
+                                                  #      6.2 %  tma_bad_speculation    
+                                                  #     37.5 %  tma_frontend_bound     
+                                                  #     28.1 %  tma_retiring             (30.47%)
+ #      9.5 %  tma_bad_speculation    
+                                                  #     21.7 %  tma_retiring             (45.04%)
+ #     33.1 %  tma_backend_bound      
+                                                  #     35.7 %  tma_frontend_bound       (45.02%)
+    11,891,492,667      cpu_atom/L1-dcache-loads/        #  262.773 M/sec                       (37.53%)
+    12,301,008,903      cpu_core/L1-dcache-loads/        #  271.822 M/sec                       (30.48%)
+       840,983,311      cpu_core/L1-dcache-load-misses/  #    6.84% of all L1-dcache accesses   (30.48%)
+       180,391,758      cpu_atom/LLC-loads/              #    3.986 M/sec                       (37.30%)
+       205,953,392      cpu_core/LLC-loads/              #    4.551 M/sec                       (30.49%)
+        83,804,434      cpu_atom/LLC-load-misses/        #   46.46% of all LL-cache accesses    (36.97%)
+         8,554,338      cpu_core/LLC-load-misses/        #    4.15% of all LL-cache accesses    (30.50%)
+
+      10.063468293 seconds time elapsed
+

@@ -79,11 +79,25 @@ MONITOR_PID=$!
 # 5. Mid-Point Stress Snapshot
 echo "[5/6] Stress snapshot scheduled for ${SLEEP_MID}s mark..."
 sleep $SLEEP_MID
+
+// Pref record
+RGW_PID=$(pgrep -n radosgw || pgrep -n lt-radosgw)
+
+if [ -n "$RGW_PID" ]; then
+    # We run perf stat for 10s. It outputs to stderr, so we redirect '2>' to a file.
+    # We use 'sudo' to ensure hardware counter access.
+    sudo perf stat -p "$RGW_PID" -d -- sleep 10 2> "$OUTPUT_DIR/perf_stat_raw.txt"
+else
+    echo "ERROR: RGW PID not found. perf stat skipped."
+fi
+
+
 $CEPH_BIN/ceph daemon "$ASOK_PATH" heap stats > "$OUTPUT_DIR/rgw_heap_stats.txt"
 $CEPH_BIN/ceph daemon "$ASOK_PATH" heap dump
 STRESS_DUMP=$(ls -t out/*.heap | head -1)
 
 # Wait for Warp and clean up monitor
+if [ -n "$PERF_REC_PID" ]; then wait $PERF_REC_PID; fi
 wait $WARP_PID
 kill $MONITOR_PID 2>/dev/null
 
