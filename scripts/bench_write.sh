@@ -79,6 +79,7 @@ MONITOR_PID=$!
 # 5. Mid-Point Stress Snapshot
 echo "[5/6] Stress snapshot scheduled for ${SLEEP_MID}s mark..."
 sleep $SLEEP_MID
+$CEPH_BIN/ceph daemon "$ASOK_PATH" heap stats > "$OUTPUT_DIR/rgw_heap_stats.txt"
 $CEPH_BIN/ceph daemon "$ASOK_PATH" heap dump
 STRESS_DUMP=$(ls -t out/*.heap | head -1)
 

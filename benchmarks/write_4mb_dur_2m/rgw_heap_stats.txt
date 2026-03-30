@@ -1,0 +1,19 @@
+client.rgw.8000 tcmalloc heap stats:------------------------------------------------
+MALLOC:      393935280 (  375.7 MiB) Bytes in use by application
+MALLOC: +       991232 (    0.9 MiB) Bytes in page heap freelist
+MALLOC: +      1530248 (    1.5 MiB) Bytes in central cache freelist
+MALLOC: +      4616192 (    4.4 MiB) Bytes in transfer cache freelist
+MALLOC: +     17087688 (   16.3 MiB) Bytes in thread cache freelists
+MALLOC: +      5242880 (    5.0 MiB) Bytes in malloc metadata
+MALLOC:   ------------
+MALLOC: =    423403520 (  403.8 MiB) Actual memory used (physical + swap)
+MALLOC: +            0 (    0.0 MiB) Bytes released to OS (aka unmapped)
+MALLOC:   ------------
+MALLOC: =    423403520 (  403.8 MiB) Virtual address space used
+MALLOC:
+MALLOC:           3186              Spans in use
+MALLOC:            598              Thread heaps in use
+MALLOC:           8192              Tcmalloc page size
+------------------------------------------------
+Call ReleaseFreeMemory() to release freelist memory to the OS (via madvise()).
+Bytes released to the OS take up virtual address space but no physical memory.
